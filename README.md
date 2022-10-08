@@ -2,6 +2,8 @@
 
 Custom PCB design of an external S&amp;Watt-Meter for radios. Useful for all enthusiasts and HAM operators.
 
+![PCB](/docs/swmeter-3d-front.png)
+
 ## DISCLAIMERS
 
 This is still "work-in-progress (WIP)" so I do NOT take any kind of warranty/responsibility for damages or data losses!
