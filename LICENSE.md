@@ -95,6 +95,4 @@ There is no standard license header for the license
 
 Linux Foundation is a registered trademark of The Linux Foundation. Linux is a registered trademark of Linus Torvalds.
 
-Please see our privacy policy and terms of use.
-
-top of page
+Please see our privacy policy and terms of use
