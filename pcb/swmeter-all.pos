@@ -1,0 +1,27 @@
+### Module positions - created on Sat Oct  8 16:21:14 2022 ###
+### Printed by Pcbnew version (6.0.4)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref      Val                   Package                                                          PosX       PosY       Rot  Side
+-BT1       Battery_Cell          BatteryHolder_Eagle_12BH611-GR                                54.0000    68.3500    0.0000  top
+D0         1N914                 D_DO-35_SOD27_P7.62mm_Horizontal                              73.1500    52.4400   90.0000  top
+D1         LED                   LED_D3.0mm_Clear                                               6.7750    11.8750    0.0000  top
+D2         LED                   LED_D3.0mm_Clear                                              17.0750    11.8750    0.0000  top
+D3         LED                   LED_D3.0mm_Clear                                              25.8750    11.6750    0.0000  top
+D4         LED                   LED_D3.0mm_Clear                                              35.2750    11.2750    0.0000  top
+D5         LED                   LED_D3.0mm_Clear                                              45.0750    11.5750    0.0000  top
+D6         LED                   LED_D3.0mm_Clear                                              54.2500    11.5750    0.0000  top
+D7         LED                   LED_D3.0mm_Clear                                              63.1750    11.6750    0.0000  top
+D8         LED                   LED_D3.0mm_Clear                                              73.5750    11.5750    0.0000  top
+D9         LED                   LED_D3.0mm_Clear                                              81.5750    11.8750    0.0000  top
+D10        red                   LED_D3.0mm_Clear                                              89.3500    11.8750    0.0000  top
+J1         BNC_Conn_Coaxial      BNC_TEConnectivity_1478035_Horizontal                         75.5750    91.8150    0.0000  top
+J2         3.5mm_AudioPlug       Jack_3.5mm_Lumberg_1503_07_Horizontal                         89.7750    93.2250    0.0000  top
+J3_Meter1  Conn_01x02_Male       PinHeader_1x02_P1.27mm_Vertical                               76.1000    34.6700    0.0000  top
+R1         1K                    R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal             15.9200    33.2750    0.0000  top
+RV1        R_Potentiometer_Trim  Potentiometer_Bourns_3266Y_Vertical                           73.0250    41.0500  -90.0000  top
+RV2        4,7K                  Potentiometer_Bourns_3266Y_Vertical                           27.6750    49.8250   90.0000  top
+SW1        SW_DIP_x01            SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm              58.6925    96.0750  180.0000  top
+SW2        SW_DIP_x03            SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile    86.9250    52.2000    0.0000  top
+U1         LM3914N               DIP-18_W7.62mm_Socket                                         55.8000    28.7750  -90.0000  top
+## End

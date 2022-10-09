@@ -1,0 +1,211 @@
+Cmp-Mod V01 Created by PcbNew   date = 08.10.2022 16:16:36
+
+BeginCmp
+TimeStamp = 6674fcc9-0153-4fac-a3bc-75055a4b6fad
+Path = 
+Reference = REF**;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 41acf526-77b4-4138-a97b-6506a8fb5e7e
+Path = 
+Reference = REF**;
+ValeurCmp = WEEE-Logo_5.6x8mm_SilkScreen;
+IdModule  = Symbol:WEEE-Logo_5.6x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = fe011508-efc2-4d41-85de-6cfb764e7639
+Path = 
+Reference = REF**;
+ValeurCmp = RoHS-Logo_6mm_SilkScreen;
+IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = da355070-531e-4277-b68c-9666d6649537
+Path = 
+Reference = REF**;
+ValeurCmp = OSHW-Logo_7.5x8mm_SilkScreen;
+IdModule  = Symbol:OSHW-Logo_7.5x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 004ddc1b-89bc-4bb9-81f0-fc90a1d5faef
+Path = /f6415f55-6e76-4500-8200-ed2c82bd2ce2
+Reference = -BT1;
+ValeurCmp = Battery_Cell;
+IdModule  = Battery:BatteryHolder_Eagle_12BH611-GR;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f127c2a-9e3e-45ef-8cbb-7cbc0a732da0
+Path = /ebf12d67-427b-419a-b53f-b97981549fad
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 21ffae55-e139-48ca-80a7-f833bd6207b9
+Path = /507fff23-5011-43fc-b0be-f48a3c1431a5
+Reference = RV1;
+ValeurCmp = R_Potentiometer_Trim;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d8d38a0-dd71-4e70-9b1c-fca6a63ae371
+Path = /6685c028-8a58-4829-a710-beb6d990f333
+Reference = J2;
+ValeurCmp = 3.5mm AudioPlug;
+IdModule  = Connector_Audio:Jack_3.5mm_Lumberg_1503_07_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 475212cf-543e-4977-bd80-eee2eb6fcdbf
+Path = /f0b89900-fb12-4e8d-8d6d-4f8ae1f022a6
+Reference = D0;
+ValeurCmp = 1N914;
+IdModule  = Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 51ecac90-82d3-495d-9389-62bf0e4926d1
+Path = /56bc4679-18ed-431b-8461-9230b613cdcd
+Reference = D10;
+ValeurCmp = red;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c7efccd-d24a-492b-95d3-fd4cd621a180
+Path = /9b9c9f2d-c3f0-4093-8f37-35fad5b79e40
+Reference = SW1;
+ValeurCmp = SW_DIP_x01;
+IdModule  = Button_Switch_THT:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 69463657-2e01-4888-a56c-be858fde08b2
+Path = /3adc2e3c-c830-44de-8e7d-88acef0c6f1d
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 6da54449-6c69-44b7-99d7-cc266a7f5c74
+Path = /8ae4e07a-ab69-4733-9e76-662d6f16a49f
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 714682ae-e3d5-4049-bb5e-3dae37ce556c
+Path = /66a98115-1770-4bdf-8ea8-c7ce45f156eb
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 82d24f23-c3d3-4166-98d2-b4b785477263
+Path = /8704d9e4-4973-414c-b13c-72d2afda3fae
+Reference = SW2;
+ValeurCmp = SW_DIP_x03;
+IdModule  = Button_Switch_THT:SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile;
+EndCmp
+
+BeginCmp
+TimeStamp = 83f4bdf9-e8ac-406c-a02e-4ef4efdfbb64
+Path = /e6773fcf-e030-4afd-8f10-eb41ac238ca5
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 88e3af35-e975-415d-96f3-bb80150de8bc
+Path = /18c49140-b050-4127-a72e-9184b4bc32d5
+Reference = J3_Meter1;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 8b92f201-07d8-4821-a7c1-053fe8198e60
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 90bb6128-a593-44d3-a464-a6399ab5e9a5
+Path = /c6c532ae-3b84-4e0c-90e3-cd79bbcec0ea
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 97a4f174-1041-42af-b5ea-d5881449075b
+Path = /7d283b62-f314-41a0-b56b-d307f2ebfa85
+Reference = U1;
+ValeurCmp = LM3914N;
+IdModule  = Package_DIP:DIP-18_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = bcc2fa42-119f-42db-b58e-fd86ec29a58d
+Path = /75b0239f-6006-48a1-9227-f2ae083b2d92
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = c5c3415b-31ed-497d-b69f-efd915f73716
+Path = /7fa8d415-b461-4cee-a540-c4ed7555eaf1
+Reference = J1;
+ValeurCmp = BNC Conn_Coaxial;
+IdModule  = Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = e53541c5-bf9d-4190-a50d-25404facbfc0
+Path = /83fc104a-4fe5-492a-972a-233881caef3e
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = f0c17a9b-ced5-45c5-9353-b4dff21d4e17
+Path = /759e6726-7104-452f-96b4-38bcc567cbad
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = fc4645ab-efd2-4b62-be0d-5a153bed3e49
+Path = /cf6556fa-15b5-4ffd-9acb-fe480d703c43
+Reference = RV2;
+ValeurCmp = 4,7K;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = fe49d807-c66f-4eb7-8d10-0650e74e614a
+Path = /c658317b-ee29-4c5d-b955-f944944c2f0c
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+EndListe

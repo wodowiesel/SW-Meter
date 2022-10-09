@@ -22,18 +22,17 @@ Have fun :)
 
 - 1x 3.5mm or 2.5mm audio jack connector
 
- - 1x 9V battery and click connector
+- 1x 9V battery and click connector
 
-- 1x 470-1000 Ohm Resistors – to prevent damage and brightness regulation of LEDs/Bargraph!
+- 1x 470 Ohm Resistors – to prevent damage and brightness regulation of LEDs/Bargraph!
 
-- 2x Variable Trimmer Resistor 4.7KOhm
+- 2x Variable Trimmer Resistor ~4.7 KOhm
 
-- 1x 3pos. DIP Switch for additional modes
+- 1x 3-pos. DIP Switch for additional modes
 
 - 1x on/off-switch
 
-- 1x Female Pin headers/Socket for the chip - or solder it directly
-
+- 1x Female Pin headers/Socket for the chip - recommended or solder it directly
 
 - 1x Soldering iron
 
