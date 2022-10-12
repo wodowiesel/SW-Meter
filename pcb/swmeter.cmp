@@ -1,43 +1,27 @@
-Cmp-Mod V01 Created by PcbNew   date = 08.10.2022 16:16:36
+Cmp-Mod V01 Created by PcbNew   date = 12.10.2022 20:41:33
 
 BeginCmp
-TimeStamp = 6674fcc9-0153-4fac-a3bc-75055a4b6fad
+TimeStamp = 6005b3ef-47f3-4f65-8ce3-07b892266bc6
 Path = 
-Reference = REF**;
-ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
-IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+Reference = REF2;
+ValeurCmp = CE-Logo_8.5x6mm_SilkScreen;
+IdModule  = Symbol:CE-Logo_8.5x6mm_SilkScreen;
 EndCmp
 
 BeginCmp
-TimeStamp = 41acf526-77b4-4138-a97b-6506a8fb5e7e
-Path = 
-Reference = REF**;
-ValeurCmp = WEEE-Logo_5.6x8mm_SilkScreen;
-IdModule  = Symbol:WEEE-Logo_5.6x8mm_SilkScreen;
+TimeStamp = 04911265-1481-4f7e-ac9d-33902bf9e521
+Path = /9b9c9f2d-c3f0-4093-8f37-35fad5b79e40
+Reference = SW1;
+ValeurCmp = SW_DIP_x01;
+IdModule  = Button_Switch_THT:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm;
 EndCmp
 
 BeginCmp
-TimeStamp = fe011508-efc2-4d41-85de-6cfb764e7639
-Path = 
-Reference = REF**;
-ValeurCmp = RoHS-Logo_6mm_SilkScreen;
-IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
-EndCmp
-
-BeginCmp
-TimeStamp = da355070-531e-4277-b68c-9666d6649537
-Path = 
-Reference = REF**;
-ValeurCmp = OSHW-Logo_7.5x8mm_SilkScreen;
-IdModule  = Symbol:OSHW-Logo_7.5x8mm_SilkScreen;
-EndCmp
-
-BeginCmp
-TimeStamp = 004ddc1b-89bc-4bb9-81f0-fc90a1d5faef
-Path = /f6415f55-6e76-4500-8200-ed2c82bd2ce2
-Reference = -BT1;
-ValeurCmp = Battery_Cell;
-IdModule  = Battery:BatteryHolder_Eagle_12BH611-GR;
+TimeStamp = 1ec3caf9-fc3d-4f89-af0b-592726e84836
+Path = /413dad84-3a3c-41c6-8962-39b45afd056c
+Reference = SW2;
+ValeurCmp = SW_SPDT;
+IdModule  = Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled;
 EndCmp
 
 BeginCmp
@@ -49,27 +33,27 @@ IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
 
 BeginCmp
-TimeStamp = 21ffae55-e139-48ca-80a7-f833bd6207b9
-Path = /507fff23-5011-43fc-b0be-f48a3c1431a5
-Reference = RV1;
-ValeurCmp = R_Potentiometer_Trim;
-IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
-EndCmp
-
-BeginCmp
-TimeStamp = 3d8d38a0-dd71-4e70-9b1c-fca6a63ae371
+TimeStamp = 2c76b3bc-2926-433b-8ff3-1758866db0fd
 Path = /6685c028-8a58-4829-a710-beb6d990f333
-Reference = J2;
-ValeurCmp = 3.5mm AudioPlug;
+Reference = J1;
+ValeurCmp = AudioPlug;
 IdModule  = Connector_Audio:Jack_3.5mm_Lumberg_1503_07_Horizontal;
 EndCmp
 
 BeginCmp
-TimeStamp = 475212cf-543e-4977-bd80-eee2eb6fcdbf
-Path = /f0b89900-fb12-4e8d-8d6d-4f8ae1f022a6
-Reference = D0;
-ValeurCmp = 1N914;
-IdModule  = Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal;
+TimeStamp = 41acf526-77b4-4138-a97b-6506a8fb5e7e
+Path = 
+Reference = REF0;
+ValeurCmp = WEEE-Logo_5.6x8mm_SilkScreen;
+IdModule  = Symbol:WEEE-Logo_5.6x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 41de742c-6b37-4f39-926a-b3e0d3c57368
+Path = /507fff23-5011-43fc-b0be-f48a3c1431a5
+Reference = RV1;
+ValeurCmp = R_Potentiometer_Trim;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
 EndCmp
 
 BeginCmp
@@ -81,11 +65,19 @@ IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
 
 BeginCmp
-TimeStamp = 5c7efccd-d24a-492b-95d3-fd4cd621a180
-Path = /9b9c9f2d-c3f0-4093-8f37-35fad5b79e40
-Reference = SW1;
-ValeurCmp = SW_DIP_x01;
-IdModule  = Button_Switch_THT:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm;
+TimeStamp = 5b9227df-460c-4b56-8ec2-9d49f3d8241f
+Path = /f6415f55-6e76-4500-8200-ed2c82bd2ce2
+Reference = BT1;
+ValeurCmp = Battery_Cell;
+IdModule  = Battery:BatteryHolder_Eagle_12BH611-GR;
+EndCmp
+
+BeginCmp
+TimeStamp = 6674fcc9-0153-4fac-a3bc-75055a4b6fad
+Path = 
+Reference = REF4;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
 EndCmp
 
 BeginCmp
@@ -113,14 +105,6 @@ IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
 
 BeginCmp
-TimeStamp = 82d24f23-c3d3-4166-98d2-b4b785477263
-Path = /8704d9e4-4973-414c-b13c-72d2afda3fae
-Reference = SW2;
-ValeurCmp = SW_DIP_x03;
-IdModule  = Button_Switch_THT:SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile;
-EndCmp
-
-BeginCmp
 TimeStamp = 83f4bdf9-e8ac-406c-a02e-4ef4efdfbb64
 Path = /e6773fcf-e030-4afd-8f10-eb41ac238ca5
 Reference = D7;
@@ -129,19 +113,19 @@ IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
 
 BeginCmp
-TimeStamp = 88e3af35-e975-415d-96f3-bb80150de8bc
-Path = /18c49140-b050-4127-a72e-9184b4bc32d5
-Reference = J3_Meter1;
-ValeurCmp = Conn_01x02_Male;
-IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;
+TimeStamp = 8b92f201-07d8-4821-a7c1-053fe8198e60
+Path = 
+Reference = REF1;
+ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
 EndCmp
 
 BeginCmp
-TimeStamp = 8b92f201-07d8-4821-a7c1-053fe8198e60
-Path = 
-Reference = REF**;
-ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
-IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+TimeStamp = 8f53b2cc-cf45-4160-8bf3-1334306e682a
+Path = /b8778119-9d79-443d-8913-4ac9d62b264b
+Reference = SW3;
+ValeurCmp = SW_DIP_x02;
+IdModule  = Button_Switch_THT:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile;
 EndCmp
 
 BeginCmp
@@ -161,6 +145,22 @@ IdModule  = Package_DIP:DIP-18_W7.62mm_Socket;
 EndCmp
 
 BeginCmp
+TimeStamp = a42adeca-1aec-4462-8de5-fda319754bf4
+Path = 
+Reference = REF22;
+ValeurCmp = CE-Logo_8.5x6mm_SilkScreen;
+IdModule  = Symbol:CE-Logo_8.5x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = b2475752-2012-4091-9911-bdc43df05bc4
+Path = /7fa8d415-b461-4cee-a540-c4ed7555eaf1
+Reference = J2;
+ValeurCmp = Conn_Coaxial;
+IdModule  = Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal;
+EndCmp
+
+BeginCmp
 TimeStamp = bcc2fa42-119f-42db-b58e-fd86ec29a58d
 Path = /75b0239f-6006-48a1-9227-f2ae083b2d92
 Reference = D2;
@@ -169,11 +169,27 @@ IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
 
 BeginCmp
-TimeStamp = c5c3415b-31ed-497d-b69f-efd915f73716
-Path = /7fa8d415-b461-4cee-a540-c4ed7555eaf1
-Reference = J1;
-ValeurCmp = BNC Conn_Coaxial;
-IdModule  = Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal;
+TimeStamp = c29b82d5-ec77-49ab-b258-d70afeb9fb38
+Path = /63cc9df1-9971-4009-89ca-7fdaf2479f3f
+Reference = D0;
+ValeurCmp = 1N914;
+IdModule  = Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = da355070-531e-4277-b68c-9666d6649537
+Path = 
+Reference = REF3;
+ValeurCmp = OSHW-Logo_7.5x8mm_SilkScreen;
+IdModule  = Symbol:OSHW-Logo_7.5x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = de90461e-2bac-4c87-a79b-c6673b1b105e
+Path = /18c49140-b050-4127-a72e-9184b4bc32d5
+Reference = J3_Meter1;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;
 EndCmp
 
 BeginCmp
@@ -201,11 +217,51 @@ IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
 EndCmp
 
 BeginCmp
+TimeStamp = fe011508-efc2-4d41-85de-6cfb764e7639
+Path = 
+Reference = REF5;
+ValeurCmp = RoHS-Logo_6mm_SilkScreen;
+IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
 TimeStamp = fe49d807-c66f-4eb7-8d10-0650e74e614a
 Path = /c658317b-ee29-4c5d-b955-f944944c2f0c
 Reference = D6;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 3b9246da-c072-4910-b626-08fb96a6227d
+Path = 
+Reference = REF55;
+ValeurCmp = RoHS-Logo_6mm_SilkScreen;
+IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 7634938a-6e14-411b-addf-3301609178f6
+Path = 
+Reference = REF44;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = c76870fc-7a6a-4013-8cc1-f6fe1d8119db
+Path = 
+Reference = REF00;
+ValeurCmp = WEEE-Logo_5.6x8mm_SilkScreen;
+IdModule  = Symbol:WEEE-Logo_5.6x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = ee5f8b6b-b538-42b1-ac07-0bd0bb9a5b8b
+Path = 
+Reference = REF33;
+ValeurCmp = OSHW-Logo_7.5x8mm_SilkScreen;
+IdModule  = Symbol:OSHW-Logo_7.5x8mm_SilkScreen;
 EndCmp
 
 EndListe
