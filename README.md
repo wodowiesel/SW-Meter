@@ -18,17 +18,17 @@ Have fun :)
 
 - 1x Custom PCB by WodoWiesel (wodowiesel@quantentunnel.de)
 
-- 1x BNC male connector
+- 1x BNC male connector 50 Ohm Impedance
 
-- 1x 3.5mm or 2.5mm audio jack connector
+- 1x 3.5mm or 2.5mm audio jack female connector
 
-- 1x 9V battery and click connector
+- 1x +9V Battery and click connector
 
-- 1x 470 Ohm Resistors – to prevent damage and brightness regulation of LEDs/Bargraph!
+- 1x 330 Ohm Resistor – to prevent damage and brightness regulation of LEDs/Bargraph!
 
 - 2x Variable Trimmer Resistor ~4.7 KOhm
 
-- 1x 3-pos. DIP Switch for additional modes
+- 1x 2-pos. DIP Switch for additional modes
 
 - 1x on/off-switch
 
