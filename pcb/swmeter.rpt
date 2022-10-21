@@ -1,4 +1,4 @@
-## Footprint report - date Wed Oct 12 20:42:12 2022
+## Footprint report - date Fri Oct 21 18:17:54 2022
 ## Created by Pcbnew version (6.0.4)
 ## Unit = mm, Angle = deg.
 
@@ -6,7 +6,7 @@ $BeginDESCRIPTION
 
 $BOARD
 upper_left_corner 85.050754 46.175000
-lower_right_corner 177.860000 127.670000
+lower_right_corner 177.939311 131.106701
 $EndBOARD
 
 $MODULE BT1
@@ -262,13 +262,13 @@ position 169.175000 61.900000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
-position  0.250000  3.500000  size  1.100000  1.100000  orientation 0.00
+position  5.250000  3.500000  size  1.100000  1.100000  orientation 0.00
 drill  1.100000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
 Shape Circle Layer both
-position  5.250000  3.500000  size  1.100000  1.100000  orientation 0.00
+position  0.250000  3.500000  size  1.100000  1.100000  orientation 0.00
 drill  1.100000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -286,13 +286,13 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "T"
 Shape Oval Layer both
-position  5.500000  0.000000  size  2.000000  2.300000  orientation 0.00
+position  0.000000  0.000000  size  2.000000  2.300000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "T"
 Shape Oval Layer both
-position  0.000000  0.000000  size  2.000000  2.300000  orientation 0.00
+position  5.500000  0.000000  size  2.000000  2.300000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -335,10 +335,10 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  J2
 
-$MODULE J3_Meter1
-footprint Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical
+$MODULE J3
+footprint Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical
 attribut none
-position 149.150000 79.550000  orientation 90.00
+position 156.970000 76.200000  orientation 90.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -352,7 +352,13 @@ position  0.000000  1.270000  size  1.000000  1.000000  orientation 0.00
 drill  0.650000
 shape_offset  0.000000  0.000000
 $EndPAD
-$EndMODULE  J3_Meter1
+$PAD "3"
+Shape Oval Layer both
+position  0.000000  2.540000  size  1.000000  1.000000  orientation 0.00
+drill  0.650000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
 
 $MODULE R1
 footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
@@ -376,7 +382,7 @@ $EndMODULE  R1
 $MODULE REF0
 footprint Symbol:WEEE-Logo_5.6x8mm_SilkScreen
 attribut virtual
-position 158.425000 118.475000  orientation 0.00
+position 158.350000 118.490000  orientation 0.00
 layer front
 $EndMODULE  REF0
 
@@ -458,7 +464,7 @@ $EndMODULE  REF2
 $MODULE REF3
 footprint Symbol:OSHW-Logo_7.5x8mm_SilkScreen
 attribut virtual
-position 115.510000 61.300000  orientation 0.00
+position 115.420000 61.230000  orientation 0.00
 layer front
 $EndMODULE  REF3
 
@@ -479,7 +485,7 @@ $EndMODULE  REF5
 $MODULE REF22
 footprint Symbol:CE-Logo_8.5x6mm_SilkScreen
 attribut virtual
-position 122.330000 61.150000  orientation 90.00
+position 122.390000 61.030000  orientation 90.00
 layer front
 $EndMODULE  REF22
 

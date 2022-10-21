@@ -1,12 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 12.10.2022 20:41:33
-
-BeginCmp
-TimeStamp = 6005b3ef-47f3-4f65-8ce3-07b892266bc6
-Path = 
-Reference = REF2;
-ValeurCmp = CE-Logo_8.5x6mm_SilkScreen;
-IdModule  = Symbol:CE-Logo_8.5x6mm_SilkScreen;
-EndCmp
+Cmp-Mod V01 Created by PcbNew   date = 21.10.2022 18:17:18
 
 BeginCmp
 TimeStamp = 04911265-1481-4f7e-ac9d-33902bf9e521
@@ -70,6 +62,14 @@ Path = /f6415f55-6e76-4500-8200-ed2c82bd2ce2
 Reference = BT1;
 ValeurCmp = Battery_Cell;
 IdModule  = Battery:BatteryHolder_Eagle_12BH611-GR;
+EndCmp
+
+BeginCmp
+TimeStamp = 5d343280-4f45-48d4-b29d-31914e89ed8c
+Path = /1da93d0b-7ffa-4107-a474-9c3680373a84
+Reference = J3;
+ValeurCmp = Conn_01x03_Female;
+IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical;
 EndCmp
 
 BeginCmp
@@ -185,14 +185,6 @@ IdModule  = Symbol:OSHW-Logo_7.5x8mm_SilkScreen;
 EndCmp
 
 BeginCmp
-TimeStamp = de90461e-2bac-4c87-a79b-c6673b1b105e
-Path = /18c49140-b050-4127-a72e-9184b4bc32d5
-Reference = J3_Meter1;
-ValeurCmp = Conn_01x02_Male;
-IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;
-EndCmp
-
-BeginCmp
 TimeStamp = e53541c5-bf9d-4190-a50d-25404facbfc0
 Path = /83fc104a-4fe5-492a-972a-233881caef3e
 Reference = D3;
@@ -238,6 +230,14 @@ Path =
 Reference = REF55;
 ValeurCmp = RoHS-Logo_6mm_SilkScreen;
 IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 6005b3ef-47f3-4f65-8ce3-07b892266bc6
+Path = 
+Reference = REF2;
+ValeurCmp = CE-Logo_8.5x6mm_SilkScreen;
+IdModule  = Symbol:CE-Logo_8.5x6mm_SilkScreen;
 EndCmp
 
 BeginCmp
