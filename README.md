@@ -1,6 +1,6 @@
 # SW-Meter
 
-Custom PCB design of an external S&amp;Watt-Meter for radios. Useful for all enthusiasts andamateur HAM operators.
+Custom PCB design of an external S-&amp;Watt-Meter for radios. Useful for all enthusiasts and amateur HAM operators.
 
 ![PCB](/docs/swmeter-3d-front.png)
 
