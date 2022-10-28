@@ -40,7 +40,7 @@ Have fun and 73 :)
 
 - 1x LM3914 (linear), or 3915/16 (logarithmic dB) dot/bar display driver from Texas Instruments
 
-- 1x 1N914 Diiode - to prevent backflow
+- 1x 1N914 Diode - to prevent backflow
 
 - 10x LEDs or 1x Bargraph
 
