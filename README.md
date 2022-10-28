@@ -8,7 +8,7 @@ Custom PCB design of an external S-&amp;Watt-Meter for radios. Useful for all en
 
 This is still "work-in-progress (WIP)" so I do NOT take any kind of warranty/responsibility for damages or data losses!
 
-You can use this at your own risk without any guarantees and put device on non conductive surface or enclosure!
+You can use this at your own risk without any guarantees and put device on non-conductive surface or enclosure!
 
 If you like the new design you are free to share it!
 
@@ -18,29 +18,37 @@ Have fun and 73 :)
 
 - 1x Custom PCB by WodoWiesel (wodowiesel@quantentunnel.de)
 
-- 1x BNC male connector 50 Ohm Impedance + 1x T-Adapter for antenna
+- 1x BNC male connector 50 Ohm Impedance + 1x T-Adapter for antenna/transceiver
 
-- 1x 3.5mm or 2.5mm audio jack female connector
+- 1x 3.5 or 2.5 mm audio jack female connector
 
-- 1x +9V block Battery & click connector
+- 1x +9V Block Battery + 1x click connector
 
 - 1x 330 Ohm Resistor – for reference voltage adjustment
 
-- 2x Variable Trimmer Resistor 3-pin ~4.7 kOhm
+- 2x Variable Trimmer resistors 3-pin ~4.7 kOhm
 
-- 1x 2-pos. DIP-switch for additional signal/grapgh modes
+- 1x 2-pos. DIP-switch for additional signal/graph modes
 
-- 1x on/off-switch
+- 1x On/Off-switch
+
+- 1x 2/3-pos. 3-pin switch - for Input selection
 
 - 1x Female Pin Headers/Socket - recommended
 
+- 1x DC-Volt Meter 3-pin
+
 - 1x LM3914 (linear), or 3915/16 (logarithmic dB) dot/bar display driver from Texas Instruments
+
+- 1x 1N914 Diiode - to prevent backflow
 
 - 10x LEDs or 1x Bargraph
 
-- 1x Soldering iron
+- 1x M3 short  flat screw
 
-- solder + flux + IPA
+- 1x Soldering iron & Screwdriver
+
+- Solder + flux + IPA
 
 ## Credits
 
@@ -56,7 +64,7 @@ The new optimized PCB was designed with free KiCAD software (https://www.kicad.o
 
 ## LICENSE
 
-This work is licensed under:
+This project is licensed under:
 
 CERN Open Hardware License Version 2 - Weakly Reciprocal
 
