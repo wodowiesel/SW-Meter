@@ -56,11 +56,11 @@ Have fun and 73 :)
 
 The new design was checked by the electrical engineer theBrutzler
 
-(https://github.com/theBrutzler/ & https://ww.twitch.com/theBrutzler/)
+(https://github.com/theBrutzler/ & https://www.twitch.com/theBrutzler/)
 
 The new optimized PCB was designed with free KiCAD software (https://www.kicad.org/)
 
-❗ The PCB should de produced at a manufacturer (like PCBWay) with the RoHS lead-less option for environmental protection
+❗ The PCB should be produced at a manufacturer (like PCBWay) with the RoHS lead-less option for environmental protection
 
 ## LICENSE
 
