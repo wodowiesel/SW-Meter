@@ -16,7 +16,9 @@ Have fun and 73 :)
 
 ## HARDWARE
 
-- 1x Custom PCB by WodoWiesel (wodowiesel@quantentunnel.de)
+- 1x Custom PCB 70x80 mm
+
+ by WodoWiesel (wodowiesel@quantentunnel.de)
 
 - 1x BNC male connector 50 Ohm Impedance + 1x T-Adapter for antenna/transceiver
 
@@ -27,6 +29,8 @@ Have fun and 73 :)
 - 1x 330 Ohm Resistor – for reference voltage adjustment
 
 - 2x Variable Trimmer resistors 3-pin ~4.7 kOhm
+
+- 1x Capacitor ~22 uF (pol.)
 
 - 1x 2-pos. DIP-switch for additional signal/graph modes
 
@@ -44,7 +48,7 @@ Have fun and 73 :)
 
 - 10x LEDs or 1x Bargraph
 
-- 1x M3 short  flat screw
+- 1x M3 short flat screw
 
 - 1x Soldering iron & Screwdriver
 
