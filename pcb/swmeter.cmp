@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 21.10.2022 18:17:18
+Cmp-Mod V01 Created by PcbNew   date = 07.11.2022 20:31:12
 
 BeginCmp
 TimeStamp = 04911265-1481-4f7e-ac9d-33902bf9e521
@@ -33,6 +33,14 @@ IdModule  = Connector_Audio:Jack_3.5mm_Lumberg_1503_07_Horizontal;
 EndCmp
 
 BeginCmp
+TimeStamp = 37a284d0-8d7a-4846-a5b8-0d3ce9ebf81d
+Path = /f37f4fd2-2740-4984-ac7f-f80065bd2757
+Reference = CV1;
+ValeurCmp = 22 µF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
 TimeStamp = 41acf526-77b4-4138-a97b-6506a8fb5e7e
 Path = 
 Reference = REF0;
@@ -44,7 +52,7 @@ BeginCmp
 TimeStamp = 41de742c-6b37-4f39-926a-b3e0d3c57368
 Path = /507fff23-5011-43fc-b0be-f48a3c1431a5
 Reference = RV1;
-ValeurCmp = R_Potentiometer_Trim;
+ValeurCmp = 4,7 kΩ;
 IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
 EndCmp
 
@@ -132,7 +140,7 @@ BeginCmp
 TimeStamp = 90bb6128-a593-44d3-a464-a6399ab5e9a5
 Path = /c6c532ae-3b84-4e0c-90e3-cd79bbcec0ea
 Reference = R1;
-ValeurCmp = 1K;
+ValeurCmp = 330Ω;
 IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
 EndCmp
 
@@ -142,14 +150,6 @@ Path = /7d283b62-f314-41a0-b56b-d307f2ebfa85
 Reference = U1;
 ValeurCmp = LM3914N;
 IdModule  = Package_DIP:DIP-18_W7.62mm_Socket;
-EndCmp
-
-BeginCmp
-TimeStamp = a42adeca-1aec-4462-8de5-fda319754bf4
-Path = 
-Reference = REF22;
-ValeurCmp = CE-Logo_8.5x6mm_SilkScreen;
-IdModule  = Symbol:CE-Logo_8.5x6mm_SilkScreen;
 EndCmp
 
 BeginCmp
@@ -204,7 +204,7 @@ BeginCmp
 TimeStamp = fc4645ab-efd2-4b62-be0d-5a153bed3e49
 Path = /cf6556fa-15b5-4ffd-9acb-fe480d703c43
 Reference = RV2;
-ValeurCmp = 4,7K;
+ValeurCmp = 4,7kΩ;
 IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
 EndCmp
 
@@ -230,14 +230,6 @@ Path =
 Reference = REF55;
 ValeurCmp = RoHS-Logo_6mm_SilkScreen;
 IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
-EndCmp
-
-BeginCmp
-TimeStamp = 6005b3ef-47f3-4f65-8ce3-07b892266bc6
-Path = 
-Reference = REF2;
-ValeurCmp = CE-Logo_8.5x6mm_SilkScreen;
-IdModule  = Symbol:CE-Logo_8.5x6mm_SilkScreen;
 EndCmp
 
 BeginCmp

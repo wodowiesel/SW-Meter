@@ -1,12 +1,12 @@
-## Footprint report - date Fri Oct 21 18:17:54 2022
+## Footprint report - date Mon Nov  7 20:31:48 2022
 ## Created by Pcbnew version (6.0.4)
 ## Unit = mm, Angle = deg.
 
 $BeginDESCRIPTION
 
 $BOARD
-upper_left_corner 85.050754 46.175000
-lower_right_corner 177.939311 131.106701
+upper_left_corner 88.667011 46.175000
+lower_right_corner 180.310000 132.163705
 $EndBOARD
 
 $MODULE BT1
@@ -45,6 +45,25 @@ drill  2.400000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  BT1
+
+$MODULE CV1
+footprint Capacitor_THT:CP_Radial_D5.0mm_P2.50mm
+attribut none
+position 161.290000 78.232000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.500000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  CV1
 
 $MODULE D0
 footprint Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
@@ -262,13 +281,13 @@ position 169.175000 61.900000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
-position  5.250000  3.500000  size  1.100000  1.100000  orientation 0.00
+position  0.250000  3.500000  size  1.100000  1.100000  orientation 0.00
 drill  1.100000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
 Shape Circle Layer both
-position  0.250000  3.500000  size  1.100000  1.100000  orientation 0.00
+position  5.250000  3.500000  size  1.100000  1.100000  orientation 0.00
 drill  1.100000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -286,13 +305,13 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "T"
 Shape Oval Layer both
-position  0.000000  0.000000  size  2.000000  2.300000  orientation 0.00
+position  5.500000  0.000000  size  2.000000  2.300000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "T"
 Shape Oval Layer both
-position  5.500000  0.000000  size  2.000000  2.300000  orientation 0.00
+position  0.000000  0.000000  size  2.000000  2.300000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -338,7 +357,7 @@ $EndMODULE  J2
 $MODULE J3
 footprint Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical
 attribut none
-position 156.970000 76.200000  orientation 90.00
+position 152.965000 75.960000  orientation 90.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -454,24 +473,17 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  REF1
 
-$MODULE REF2
-footprint Symbol:CE-Logo_8.5x6mm_SilkScreen
-attribut virtual
-position 122.370000 60.750000  orientation 90.00
-layer back
-$EndMODULE  REF2
-
 $MODULE REF3
 footprint Symbol:OSHW-Logo_7.5x8mm_SilkScreen
 attribut virtual
-position 115.420000 61.230000  orientation 0.00
+position 120.250000 60.540000  orientation 0.00
 layer front
 $EndMODULE  REF3
 
 $MODULE REF4
 footprint Symbol:KiCad-Logo2_5mm_SilkScreen
 attribut virtual
-position 105.610000 59.820000  orientation 0.00
+position 108.540000 60.720000  orientation 0.00
 layer front
 $EndMODULE  REF4
 
@@ -482,24 +494,17 @@ position 144.275000 118.650000  orientation 0.00
 layer front
 $EndMODULE  REF5
 
-$MODULE REF22
-footprint Symbol:CE-Logo_8.5x6mm_SilkScreen
-attribut virtual
-position 122.390000 61.030000  orientation 90.00
-layer front
-$EndMODULE  REF22
-
 $MODULE REF33
 footprint Symbol:OSHW-Logo_7.5x8mm_SilkScreen
 attribut virtual
-position 115.570000 61.100000  orientation 180.00
+position 120.290000 60.510000  orientation 180.00
 layer back
 $EndMODULE  REF33
 
 $MODULE REF44
 footprint Symbol:KiCad-Logo2_5mm_SilkScreen
 attribut virtual
-position 105.650000 59.900000  orientation 180.00
+position 108.450000 60.820000  orientation 180.00
 layer back
 $EndMODULE  REF44
 
