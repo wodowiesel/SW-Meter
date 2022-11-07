@@ -30,7 +30,7 @@ Have fun and 73 :)
 
 - 2x Variable Trimmer resistors 3-pin ~4.7 kOhm
 
-- 1x Capacitor ~22 uF (pol.)
+- 1x Capacitor ~22 µuF (pol.)
 
 - 1x 2-pos. DIP-switch for additional signal/graph modes
 
