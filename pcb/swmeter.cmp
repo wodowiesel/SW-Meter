@@ -1,12 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 07.11.2022 20:31:12
-
-BeginCmp
-TimeStamp = 04911265-1481-4f7e-ac9d-33902bf9e521
-Path = /9b9c9f2d-c3f0-4093-8f37-35fad5b79e40
-Reference = SW1;
-ValeurCmp = SW_DIP_x01;
-IdModule  = Button_Switch_THT:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm;
-EndCmp
+Cmp-Mod V01 Created by PcbNew   date = 15.11.2022 21:00:50
 
 BeginCmp
 TimeStamp = 1ec3caf9-fc3d-4f89-af0b-592726e84836
@@ -25,6 +17,14 @@ IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
 
 BeginCmp
+TimeStamp = 2501f8af-64a4-4048-910a-af6739d92186
+Path = 
+Reference = G9;
+ValeurCmp = LOGO;
+IdModule  = Logos:recycling-symbol-kicad;
+EndCmp
+
+BeginCmp
 TimeStamp = 2c76b3bc-2926-433b-8ff3-1758866db0fd
 Path = /6685c028-8a58-4829-a710-beb6d990f333
 Reference = J1;
@@ -36,7 +36,7 @@ BeginCmp
 TimeStamp = 37a284d0-8d7a-4846-a5b8-0d3ce9ebf81d
 Path = /f37f4fd2-2740-4984-ac7f-f80065bd2757
 Reference = CV1;
-ValeurCmp = 22 µF;
+ValeurCmp = 22µF;
 IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
 EndCmp
 
@@ -52,7 +52,7 @@ BeginCmp
 TimeStamp = 41de742c-6b37-4f39-926a-b3e0d3c57368
 Path = /507fff23-5011-43fc-b0be-f48a3c1431a5
 Reference = RV1;
-ValeurCmp = 4,7 kΩ;
+ValeurCmp = 4,7kΩ;
 IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
 EndCmp
 
@@ -62,6 +62,14 @@ Path = /56bc4679-18ed-431b-8461-9230b613cdcd
 Reference = D10;
 ValeurCmp = red;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 53345ba3-3905-4973-8b65-ea17a19768d3
+Path = /0feb073a-d146-4a2d-9dc2-336bf04c0922
+Reference = SW1;
+ValeurCmp = SW_SPDT;
+IdModule  = Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled;
 EndCmp
 
 BeginCmp
@@ -238,6 +246,14 @@ Path =
 Reference = REF44;
 ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
 IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = b341dfd3-46d2-4fd8-b31c-966da7e6faf5
+Path = 
+Reference = G99;
+ValeurCmp = LOGO;
+IdModule  = Logos:recycling-symbol-kicad;
 EndCmp
 
 BeginCmp

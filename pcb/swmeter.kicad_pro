@@ -124,9 +124,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "lib_symbol_issues|1625600|1104900|7d283b62-f314-41a0-b56b-d307f2ebfa85|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -365,12 +363,12 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "smeter.cad",
-      "idf": "smeter.emn",
+      "gencad": "swmeter.cad",
+      "idf": "swmeter.emn",
       "netlist": "",
-      "specctra_dsn": "smeter.dsn",
-      "step": "smeter.step",
-      "vrml": "smeter.wrl"
+      "specctra_dsn": "swmeter.dsn",
+      "step": "swmeter.step",
+      "vrml": "swmeter.wrl"
     },
     "page_layout_descr_file": ""
   },

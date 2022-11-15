@@ -1,6 +1,6 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
 "BT1","Battery_Cell","BatteryHolder_Eagle_12BH611-GR",25.080000,55.850000,90.000000,top
-"CV1","22 µF","CP_Radial_D5.0mm_P2.50mm",63.120000,46.918000,90.000000,top
+"CV1","22µF","CP_Radial_D5.0mm_P2.50mm",63.120000,46.918000,90.000000,top
 "D0","1N914","D_DO-35_SOD27_P7.62mm_Horizontal",53.140000,40.550000,180.000000,top
 "D1","LED","LED_D3.0mm_Clear",73.710000,2.970000,0.000000,top
 "D2","LED","LED_D3.0mm_Clear",73.660000,7.620000,0.000000,top
@@ -16,9 +16,9 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J2","Conn_Coaxial","BNC_TEConnectivity_1478035_Horizontal",61.630000,61.550000,0.000000,top
 "J3","Conn_01x03_Female","PinHeader_1x03_P1.27mm_Vertical",54.795000,49.190000,90.000000,top
 "R1","330Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",44.480000,20.720000,0.000000,top
-"RV1","4,7 kΩ","Potentiometer_Bourns_3266Y_Vertical",46.865000,34.625000,180.000000,top
+"RV1","4,7kΩ","Potentiometer_Bourns_3266Y_Vertical",46.865000,34.625000,180.000000,top
 "RV2","4,7kΩ","Potentiometer_Bourns_3266Y_Vertical",46.835000,27.535000,180.000000,top
-"SW1","SW_DIP_x01","SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm",28.912500,65.225000,0.000000,top
+"SW1","SW_SPDT","SW_E-Switch_EG1224_SPDT_Angled",34.800000,63.220000,180.000000,top
 "SW2","SW_SPDT","SW_E-Switch_EG1224_SPDT_Angled",50.180000,63.325000,180.000000,top
 "SW3","SW_DIP_x02","SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile",36.705000,52.575000,0.000000,top
 "U1","LM3914N","DIP-18_W7.62mm_Socket",60.140000,42.030000,0.000000,top

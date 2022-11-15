@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-11-07T20:32:36+01:00"
+    "CreationDate": "2022-11-15T21:12:38+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -116,6 +116,51 @@
     {
       "Path": "swmeter-B_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_1.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_2.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_3.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_4.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_5.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_6.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_7.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_8.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "swmeter-Nutzer_9.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],
