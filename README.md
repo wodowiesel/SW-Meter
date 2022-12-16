@@ -2,7 +2,7 @@
 
 Custom PCB design of an external S-&amp;Watt-Meter for radios. Useful for all radio enthusiasts and amateur HAM operators.
 
-![PCB](/docs/swmeter-3d-front.png)
+![PCB](/docs/swmeter-front-pcb.png)
 
 ## DISCLAIMERS
 
@@ -16,7 +16,7 @@ Have fun and 73 :)
 
 ## HARDWARE
 
-- 1x Custom THT PCB (B) 70 x (L) 80 x (H) ~15 mm
+- 1x Custom THT PCB (B) 66 x (L) 60 x (H) ~2 mm + 15 mm parts 
 
  by WodoWiesel (wodowiesel@quantentunnel.de)
 
