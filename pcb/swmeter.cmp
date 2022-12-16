@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 15.11.2022 21:00:50
+Cmp-Mod V01 Created by PcbNew   date = 16.12.2022 22:03:30
 
 BeginCmp
 TimeStamp = 1ec3caf9-fc3d-4f89-af0b-592726e84836
@@ -11,7 +11,7 @@ EndCmp
 BeginCmp
 TimeStamp = 1f127c2a-9e3e-45ef-8cbb-7cbc0a732da0
 Path = /ebf12d67-427b-419a-b53f-b97981549fad
-Reference = D4;
+Reference = D8;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -33,14 +33,6 @@ IdModule  = Connector_Audio:Jack_3.5mm_Lumberg_1503_07_Horizontal;
 EndCmp
 
 BeginCmp
-TimeStamp = 37a284d0-8d7a-4846-a5b8-0d3ce9ebf81d
-Path = /f37f4fd2-2740-4984-ac7f-f80065bd2757
-Reference = CV1;
-ValeurCmp = 22µF;
-IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
-EndCmp
-
-BeginCmp
 TimeStamp = 41acf526-77b4-4138-a97b-6506a8fb5e7e
 Path = 
 Reference = REF0;
@@ -59,7 +51,7 @@ EndCmp
 BeginCmp
 TimeStamp = 51ecac90-82d3-495d-9389-62bf0e4926d1
 Path = /56bc4679-18ed-431b-8461-9230b613cdcd
-Reference = D10;
+Reference = D2;
 ValeurCmp = red;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -70,14 +62,6 @@ Path = /0feb073a-d146-4a2d-9dc2-336bf04c0922
 Reference = SW1;
 ValeurCmp = SW_SPDT;
 IdModule  = Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled;
-EndCmp
-
-BeginCmp
-TimeStamp = 5b9227df-460c-4b56-8ec2-9d49f3d8241f
-Path = /f6415f55-6e76-4500-8200-ed2c82bd2ce2
-Reference = BT1;
-ValeurCmp = Battery_Cell;
-IdModule  = Battery:BatteryHolder_Eagle_12BH611-GR;
 EndCmp
 
 BeginCmp
@@ -107,7 +91,7 @@ EndCmp
 BeginCmp
 TimeStamp = 6da54449-6c69-44b7-99d7-cc266a7f5c74
 Path = /8ae4e07a-ab69-4733-9e76-662d6f16a49f
-Reference = D9;
+Reference = D3;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -115,7 +99,7 @@ EndCmp
 BeginCmp
 TimeStamp = 714682ae-e3d5-4049-bb5e-3dae37ce556c
 Path = /66a98115-1770-4bdf-8ea8-c7ce45f156eb
-Reference = D5;
+Reference = D7;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -123,7 +107,7 @@ EndCmp
 BeginCmp
 TimeStamp = 83f4bdf9-e8ac-406c-a02e-4ef4efdfbb64
 Path = /e6773fcf-e030-4afd-8f10-eb41ac238ca5
-Reference = D7;
+Reference = D5;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -161,6 +145,14 @@ IdModule  = Package_DIP:DIP-18_W7.62mm_Socket;
 EndCmp
 
 BeginCmp
+TimeStamp = a08dea88-9906-4234-af34-36803a886e39
+Path = 
+Reference = G1;
+ValeurCmp = LOGO;
+IdModule  = TheBrutzlers_Lib:approved_theBrutzler;
+EndCmp
+
+BeginCmp
 TimeStamp = b2475752-2012-4091-9911-bdc43df05bc4
 Path = /7fa8d415-b461-4cee-a540-c4ed7555eaf1
 Reference = J2;
@@ -169,9 +161,17 @@ IdModule  = Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal;
 EndCmp
 
 BeginCmp
+TimeStamp = b3031e20-fdf6-4c49-b991-355401574a9b
+Path = /f2b0acb5-9834-4e4e-bea0-9465491ec191
+Reference = C1;
+ValeurCmp = 22µF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
 TimeStamp = bcc2fa42-119f-42db-b58e-fd86ec29a58d
 Path = /75b0239f-6006-48a1-9227-f2ae083b2d92
-Reference = D2;
+Reference = D10;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -193,9 +193,17 @@ IdModule  = Symbol:OSHW-Logo_7.5x8mm_SilkScreen;
 EndCmp
 
 BeginCmp
+TimeStamp = dd77deb5-3785-453e-b09c-ff1f48d8721e
+Path = /00695b46-a5e7-4661-a83e-5cfb182bbc5c
+Reference = J0;
+ValeurCmp = Conn_01x02_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
 TimeStamp = e53541c5-bf9d-4190-a50d-25404facbfc0
 Path = /83fc104a-4fe5-492a-972a-233881caef3e
-Reference = D3;
+Reference = D9;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -203,7 +211,7 @@ EndCmp
 BeginCmp
 TimeStamp = f0c17a9b-ced5-45c5-9353-b4dff21d4e17
 Path = /759e6726-7104-452f-96b4-38bcc567cbad
-Reference = D8;
+Reference = D4;
 ValeurCmp = LED;
 IdModule  = LED_THT:LED_D3.0mm_Clear;
 EndCmp
@@ -238,6 +246,14 @@ Path =
 Reference = REF55;
 ValeurCmp = RoHS-Logo_6mm_SilkScreen;
 IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 634c297b-f570-42cc-ac10-3b3ce88106b3
+Path = 
+Reference = G11;
+ValeurCmp = LOGO;
+IdModule  = TheBrutzlers_Lib:approved_theBrutzler;
 EndCmp
 
 BeginCmp

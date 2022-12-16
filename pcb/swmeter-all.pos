@@ -1,29 +1,29 @@
-### Module positions - created on Tue Nov 15 21:05:44 2022 ###
+### Module positions - created on Fri Dec 16 22:02:58 2022 ###
 ### Printed by Pcbnew version (6.0.4)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                Package                                                          PosX       PosY       Rot  Side
-BT1       Battery_Cell       BatteryHolder_Eagle_12BH611-GR                                25.0800    55.8500   90.0000  top
-CV1       22µF              CP_Radial_D5.0mm_P2.50mm                                      63.1200    46.9180   90.0000  top
-D0        1N914              D_DO-35_SOD27_P7.62mm_Horizontal                              53.1400    40.5500  180.0000  top
-D1        LED                LED_D3.0mm_Clear                                              73.7100     2.9700    0.0000  top
-D2        LED                LED_D3.0mm_Clear                                              73.6600     7.6200    0.0000  top
-D3        LED                LED_D3.0mm_Clear                                              73.6350    12.2200    0.0000  top
-D4        LED                LED_D3.0mm_Clear                                              73.6100    16.8200    0.0000  top
-D5        LED                LED_D3.0mm_Clear                                              73.5850    21.4200    0.0000  top
-D6        LED                LED_D3.0mm_Clear                                              73.5600    25.9700    0.0000  top
-D7        LED                LED_D3.0mm_Clear                                              73.5600    30.5200    0.0000  top
-D8        LED                LED_D3.0mm_Clear                                              73.5600    35.0950    0.0000  top
-D9        LED                LED_D3.0mm_Clear                                              73.6100    39.6450    0.0000  top
-D10       red                LED_D3.0mm_Clear                                              73.5850    44.2200    0.0000  top
-J1        AudioPlug          Jack_3.5mm_Lumberg_1503_07_Horizontal                         71.0050    63.2500    0.0000  top
-J2        Conn_Coaxial       BNC_TEConnectivity_1478035_Horizontal                         61.6300    61.5500    0.0000  top
-J3        Conn_01x03_Female  PinHeader_1x03_P1.27mm_Vertical                               54.7950    49.1900   90.0000  top
-R1        330Ω              R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal             44.4800    20.7200    0.0000  top
-RV1       4,7kΩ             Potentiometer_Bourns_3266Y_Vertical                           46.8650    34.6250  180.0000  top
-RV2       4,7kΩ             Potentiometer_Bourns_3266Y_Vertical                           46.8350    27.5350  180.0000  top
-SW1       SW_SPDT            SW_E-Switch_EG1224_SPDT_Angled                                34.8000    63.2200  180.0000  top
-SW2       SW_SPDT            SW_E-Switch_EG1224_SPDT_Angled                                50.1800    63.3250  180.0000  top
-SW3       SW_DIP_x02         SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile    36.7050    52.5750    0.0000  top
-U1        LM3914N            DIP-18_W7.62mm_Socket                                         60.1400    42.0300    0.0000  top
+C1        22µF              CP_Radial_D5.0mm_P2.50mm                                      55.2800    24.1500   90.0000  top
+D0        1N914              D_DO-35_SOD27_P7.62mm_Horizontal                              41.7400    43.1300   90.0000  top
+D1        LED                LED_D3.0mm_Clear                                              55.7300     4.8750  -90.0000  top
+D2        red                LED_D3.0mm_Clear                                              51.1300     4.8750  -90.0000  top
+D3        LED                LED_D3.0mm_Clear                                              46.5300     4.8750  -90.0000  top
+D4        LED                LED_D3.0mm_Clear                                              41.9300     4.8750  -90.0000  top
+D5        LED                LED_D3.0mm_Clear                                              37.3300     4.8750  -90.0000  top
+D6        LED                LED_D3.0mm_Clear                                              32.7300     4.8750  -90.0000  top
+D7        LED                LED_D3.0mm_Clear                                              28.1300     4.8750  -90.0000  top
+D8        LED                LED_D3.0mm_Clear                                              23.5300     4.8750  -90.0000  top
+D9        LED                LED_D3.0mm_Clear                                              18.9300     4.8750  -90.0000  top
+D10       LED                LED_D3.0mm_Clear                                              14.3300     4.8750  -90.0000  top
+J0        Conn_01x02_Female  PinHeader_1x02_P2.54mm_Vertical                                7.8250    53.7400   90.0000  top
+J1        AudioPlug          Jack_3.5mm_Lumberg_1503_07_Horizontal                         50.7425    58.9525    0.0000  top
+J2        Conn_Coaxial       BNC_TEConnectivity_1478035_Horizontal                         26.0800    57.6450    0.0000  top
+J3        Conn_01x03_Female  PinHeader_1x03_P1.27mm_Vertical                               47.8975    44.5125  -90.0000  top
+R1        330Ω              R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal             57.1425    33.0225  180.0000  top
+RV1       4,7kΩ             Potentiometer_Bourns_3266Y_Vertical                           39.2050    39.1850  180.0000  top
+RV2       4,7kΩ             Potentiometer_Bourns_3266Y_Vertical                           49.4875    39.1580  180.0000  top
+SW1       SW_SPDT            SW_E-Switch_EG1224_SPDT_Angled                                14.4125    59.3525  180.0000  top
+SW2       SW_SPDT            SW_E-Switch_EG1224_SPDT_Angled                                45.7925    59.1300  180.0000  top
+SW3       SW_DIP_x02         SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile    35.0125    44.3125  -90.0000  top
+U1        LM3914N            DIP-18_W7.62mm_Socket                                         50.3525    27.0125  -90.0000  top
 ## End
