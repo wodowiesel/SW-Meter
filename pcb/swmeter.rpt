@@ -1,4 +1,4 @@
-## Footprint report - date Fri Dec 16 22:01:55 2022
+## Footprint report - date Sat Dec 17 16:49:02 2022
 ## Created by Pcbnew version (6.0.4)
 ## Unit = mm, Angle = deg.
 
@@ -493,7 +493,7 @@ $EndMODULE  REF3
 $MODULE REF4
 footprint Symbol:KiCad-Logo2_5mm_SilkScreen
 attribut virtual
-position 231.068000 137.118000  orientation 0.00
+position 231.090000 138.600000  orientation 0.00
 layer front
 $EndMODULE  REF4
 
@@ -514,7 +514,7 @@ $EndMODULE  REF33
 $MODULE REF44
 footprint Symbol:KiCad-Logo2_5mm_SilkScreen
 attribut virtual
-position 230.832500 137.037500  orientation 180.00
+position 231.020000 138.640000  orientation 180.00
 layer back
 $EndMODULE  REF44
 
@@ -707,7 +707,7 @@ $EndMODULE  SW3
 $MODULE U1
 footprint Package_DIP:DIP-18_W7.62mm_Socket
 attribut none
-position 252.492500 123.397500  orientation -90.00
+position 252.480000 124.880000  orientation -90.00
 layer front
 $PAD "1"
 Shape Rect Layer both

@@ -380,7 +380,7 @@
       "gencad": "swmeter.cad",
       "idf": "swmeter.emn",
       "netlist": "",
-      "specctra_dsn": "pcb/swmeter.dsn",
+      "specctra_dsn": "swmeter.dsn",
       "step": "swmeter.step",
       "vrml": "swmeter.wrl"
     },

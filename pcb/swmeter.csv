@@ -1,0 +1,14 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"SW2,SW1";"SW_E-Switch_EG1224_SPDT_Angled";2;"SW_SPDT";;;
+2;"D8,D1,D3,D7,D5,D10,D9,D4,D6";"LED_D3.0mm_Clear";9;"LED";;;
+3;"J1";"Jack_3.5mm_Lumberg_1503_07_Horizontal";1;"AudioPlug";;;
+4;"RV1,RV2";"Potentiometer_Bourns_3266Y_Vertical";2;"4,7kΩ";;;
+5;"D2";"LED_D3.0mm_Clear";1;"red";;;
+6;"J3";"PinHeader_1x03_P1.27mm_Vertical";1;"Conn_01x03_Female";;;
+7;"SW3";"SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile";1;"SW_DIP_x02";;;
+8;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"330Ω";;;
+9;"U1";"DIP-18_W7.62mm_Socket";1;"LM3914N";;;
+10;"J2";"BNC_TEConnectivity_1478035_Horizontal";1;"Conn_Coaxial";;;
+11;"C1";"CP_Radial_D5.0mm_P2.50mm";1;"22µF";;;
+12;"D0";"D_DO-35_SOD27_P7.62mm_Horizontal";1;"1N914";;;
+13;"J0";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Female";;;
