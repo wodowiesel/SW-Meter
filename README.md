@@ -40,7 +40,7 @@ Have fun and 73 :)
 
 - 1x Female Pin Headers/Socket - recommended
 
-- 1x DC-Volt Meter 3-pin
+- 2x DC-Volt-Meters 3-pin
 
 - 1x LM3914 (linear), or 3915/16 (logarithmic dB) dot/bar display driver from Texas Instruments
 
