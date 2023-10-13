@@ -55,7 +55,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_overlap|215253775|119984578|46e16ecd-86ea-4f7c-9b2f-ef9e3d16d7b8|80432e63-df72-4ae1-b600-20d7393ff8ac",
+        "silk_overlap|215507275|119484253|80432e63-df72-4ae1-b600-20d7393ff8ac|46e16ecd-86ea-4f7c-9b2f-ef9e3d16d7b8",
+        "silk_overlap|215519775|119647149|46e16ecd-86ea-4f7c-9b2f-ef9e3d16d7b8|80432e63-df72-4ae1-b600-20d7393ff8ac",
+        "silk_overlap|215653256|119431337|aa09d5c6-f94b-407e-ac2a-f7b9700fa6e2|c011eef9-7b74-47d9-a873-e82afc837fc4",
+        "silk_overlap|215653256|119431337|c011eef9-7b74-47d9-a873-e82afc837fc4|aa09d5c6-f94b-407e-ac2a-f7b9700fa6e2"
+      ],
       "meta": {
         "version": 2
       },

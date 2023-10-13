@@ -1,4 +1,4 @@
-20303440560099152
+20363439679117106
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52877,13 +52877,6 @@ connector_gameboy_01x32_male
 0
 34
 32
-GB_Cartridge
-connector_gameboy_01x32_male
-
-
-0
-34
-32
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -58073,6 +58066,13 @@ Yellow 5381 Series LED
 2
 Logos
 recycling-symbol-kicad
+
+
+0
+0
+0
+Logos
+wiesel-kicad-back-white
 
 
 0
@@ -86309,3 +86309,255 @@ varistor SIOV
 0
 2
 2
+gb-std
+GameBoy_Cartridge_AGS_1x32-1MP_P1.50mm_Socket_Horizontal
+Game Boy cartridge slot, Game Boy Advance SP
+gameboy cartridge slot
+0
+34
+33
+gb-std
+connector_gameboy_01x32_male
+
+
+0
+34
+32
+hdr-cartridges
+AGB_Cartridge
+
+
+0
+160
+32
+hdr-cartridges
+GB_Cartridge
+
+
+0
+160
+32
+hdr-gameboy
+1x1mm_Pad
+
+
+0
+1
+1
+hdr-gameboy
+3x3mm_Pad
+
+
+0
+1
+1
+hdr-gameboy
+AGB-CR1616
+
+
+0
+2
+2
+hdr-gameboy
+AGB-C_0402
+
+capacitor
+0
+2
+2
+hdr-gameboy
+AGB-Cartbrow_Left
+
+
+0
+1
+1
+hdr-gameboy
+AGB-Cartbrow_Right
+
+
+0
+2
+1
+hdr-gameboy
+AGB-Crystal
+
+
+0
+3
+3
+hdr-gameboy
+AGB-R-0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+hdr-gameboy
+AGB-R-0603_OPT
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+hdr-gameboy
+AGB-R_0402
+
+resistor
+0
+2
+2
+hdr-gameboy
+AGB-SSOP8
+SSOP, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SSOP SO
+0
+24
+8
+hdr-gameboy
+AGB-TSOP-I-32
+TSOP-I, 32 Pin, RAM AGB
+TSOP-I SO
+0
+48
+32
+hdr-gameboy
+AGB-TSOP-II-44_10.16x18.41mm_P0.8mm
+TSOP-II, 44 Pin - ROM Chip on games like Fire Red & Leaf Green
+TSOP-II SO
+0
+132
+44
+hdr-gameboy
+AGB-Testpoint
+
+
+0
+1
+1
+hdr-gameboy
+AGB-Testpoint_Ground
+
+
+0
+1
+1
+hdr-gameboy
+AM29F0XX
+TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf)
+TSOP I 32
+0
+44
+44
+hdr-gameboy
+DSL_Cartridge_Reader
+GBA DS Lite slots commonly found on aliexpress
+gameboy cartridge slot
+0
+34
+33
+hdr-gameboy
+Game_Boy_Advance_Edge_Connector
+
+
+0
+96
+32
+hdr-gameboy
+Game_Boy_Edge_Connector
+
+
+0
+160
+32
+hdr-gameboy
+MBC3
+
+
+0
+32
+32
+hdr-indicators
+01 January
+
+
+0
+12
+1
+hdr-indicators
+02 February
+
+
+0
+12
+1
+hdr-indicators
+03 March
+
+
+0
+12
+1
+hdr-indicators
+04 April
+
+
+0
+12
+1
+hdr-indicators
+05 May
+
+
+0
+12
+1
+hdr-indicators
+06 June
+
+
+0
+12
+1
+hdr-indicators
+07 July
+
+
+0
+12
+1
+hdr-indicators
+08 August
+
+
+0
+12
+1
+hdr-indicators
+09 September
+
+
+0
+12
+1
+hdr-indicators
+10 October
+
+
+0
+12
+1
+hdr-indicators
+11 November
+
+
+0
+12
+1
+hdr-indicators
+12 December
+
+
+0
+12
+1
