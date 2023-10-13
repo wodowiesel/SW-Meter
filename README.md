@@ -16,15 +16,15 @@ Have fun and 73 :)
 
 ## HARDWARE
 
-- 1x Custom THT PCB: (B) 66 x (L) 60 x (H) ~2 mm + ~15 mm part height
+- 1x Custom THT PCB: (B) 66 x (L) 53 x (H) ~2 mm + ~15 mm parts height
 
- by WodoWiesel (wodowiesel@quantentunnel.de)
+  by WodoWiesel (wodowiesel@quantentunnel.de)
 
 - 1x BNC male connector 50 Ohm Impedance
 
 - 1x T-Adapter/cable for antenna/transceiver
 
-- 1x 3.5 or 2.5 mm audio jack female connector incl. a cable for hook up to your radio
+- 1x 3.5 mm (or 2.5) audio jack female connector incl. a cable for hook up to your radio
 
 - 1x +9 V Block Battery + 1x click connector
 
@@ -34,11 +34,11 @@ Have fun and 73 :)
 
 - 1x Electrolytic Capacitor ~22 µF (pol.)
 
-- 1x 2-pos. DIP-switch for additional signal/graph modes
+- 1x 3-pos. DIP-switch for additional signal/graph modes
 
 - 1x On/Off-switch
 
-- 1x 2/3-pos. 3-pin switch - for Input selection
+- 1x 2-pos. 3-pin switch - for Input selection
 
 - 2x DC-Volt-Meters 3-pins
 
@@ -48,7 +48,7 @@ Have fun and 73 :)
 
 - 1x 1N914 fast-switching Schottky Diode - to prevent backflow
 
-- 10x LEDs or 1x Bargraph
+- 10x LEDs (v0.5) or 1x Bar-Graph (v.06)
 
 - 1x M3 short flat head screw
 
