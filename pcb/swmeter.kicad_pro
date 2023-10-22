@@ -383,11 +383,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "swmeter.cad",
-      "idf": "swmeter.emn",
+      "gencad": "export/swmeter.cad",
+      "idf": "export/swmeter.emn",
       "netlist": "",
-      "specctra_dsn": "swmeter.dsn",
-      "step": "swmeter.step",
+      "specctra_dsn": "export/swmeter.dsn",
+      "step": "export/swmeter.step",
       "vrml": "swmeter.wrl"
     },
     "page_layout_descr_file": ""

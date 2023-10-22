@@ -1,7 +1,7 @@
 (export (version "E")
   (design
-    (source "I:\\c64\\smeter\\v0..6\\swmeter.kicad_sch")
-    (date "13.10.2023 18:03:21")
+    (source "C:\\github\\SW-Meter\\pcb\\swmeter.kicad_sch")
+    (date "22.10.2023 18:40:25")
     (tool "Eeschema (6.0.4)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block

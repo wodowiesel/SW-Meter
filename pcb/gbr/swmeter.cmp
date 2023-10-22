@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 13.10.2023 17:45:57
+Cmp-Mod V01 Created by PcbNew   date = 22.10.2023 18:38:20
 
 BeginCmp
 TimeStamp = 0a9de774-7f72-4e87-b4f6-6157388e155a
@@ -6,6 +6,14 @@ Path =
 Reference = G2;
 ValeurCmp = LOGO;
 IdModule  = Logos:wiesel-kicad-back-white;
+EndCmp
+
+BeginCmp
+TimeStamp = 1612a5b0-134a-452a-95a8-7922964b9357
+Path = 
+Reference = REF99**;
+ValeurCmp = MountingHole_3.2mm_M3_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad;
 EndCmp
 
 BeginCmp
@@ -75,7 +83,7 @@ EndCmp
 BeginCmp
 TimeStamp = 56d30706-3bc3-4351-80e6-e342c04c34e6
 Path = 
-Reference = REF**;
+Reference = REF7**;
 ValeurCmp = ESD-Logo_13.2x12mm_SilkScreen;
 IdModule  = Symbol:ESD-Logo_13.2x12mm_SilkScreen;
 EndCmp
@@ -113,14 +121,6 @@ IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical;
 EndCmp
 
 BeginCmp
-TimeStamp = 8b92f201-07d8-4821-a7c1-053fe8198e60
-Path = 
-Reference = REF1;
-ValeurCmp = MountingHole_3.2mm_M3_Pad_Via;
-IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
-EndCmp
-
-BeginCmp
 TimeStamp = 90bb6128-a593-44d3-a464-a6399ab5e9a5
 Path = /4547523f-0873-485d-9308-e53ef18f1161
 Reference = R1;
@@ -142,6 +142,14 @@ Path =
 Reference = G1;
 ValeurCmp = LOGO;
 IdModule  = TheBrutzlers_Lib:approved_theBrutzler;
+EndCmp
+
+BeginCmp
+TimeStamp = b22844c1-8f8a-46db-8ad3-7191a38d589f
+Path = 
+Reference = REF8**;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
 EndCmp
 
 BeginCmp
@@ -177,19 +185,19 @@ IdModule  = Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical;
 EndCmp
 
 BeginCmp
-TimeStamp = fe011508-efc2-4d41-85de-6cfb764e7639
+TimeStamp = 1d11ff4c-5334-447e-9219-a0ae37faedf6
 Path = 
-Reference = REF5;
-ValeurCmp = RoHS-Logo_6mm_SilkScreen;
-IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+Reference = REF88**;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
 EndCmp
 
 BeginCmp
-TimeStamp = 3b9246da-c072-4910-b626-08fb96a6227d
+TimeStamp = 352ad5bc-3162-4348-8d9e-9f3b763768c5
 Path = 
-Reference = REF55;
-ValeurCmp = RoHS-Logo_6mm_SilkScreen;
-IdModule  = Symbol:RoHS-Logo_6mm_SilkScreen;
+Reference = REF77**;
+ValeurCmp = ESD-Logo_13.2x12mm_SilkScreen;
+IdModule  = Symbol:ESD-Logo_13.2x12mm_SilkScreen;
 EndCmp
 
 BeginCmp
