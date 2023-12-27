@@ -28,9 +28,9 @@ Have fun and 73 :)
 
 - 1x +9 V Block Battery + 1x click connector
 
-- 1x 330 Ohm Resistor – for reference voltage adjustment
+- 1x 330 Ohm Resistor – optional for LED
 
-- 2x Variable Trimmer resistors 3-pins ~4.7 kOhm
+- 3x Variable Trimmer resistors 3-pins (1x1.2k & 2x4.7 kOhm)
 
 - 1x Electrolytic Capacitor ~22 µF (pol.)
 
@@ -46,9 +46,11 @@ Have fun and 73 :)
 
 - 1x LM3914 (linear), or 3915/16 (logarithmic dB) dot/bar display driver from Texas Instruments
 
+  extra calculator (https://www.electro-tech-online.com/tools/LM3914V2.php)
+
 - 1x 1N914 fast-switching Schottky Diode - to prevent backflow
 
-- 10x LEDs (v0.5) or 1x Bar-Graph (v.06)
+- 10x LEDs (v0.5) or 1x Bar-Graph (v0.7)
 
 - 1x M3 short flat head screw
 
@@ -62,7 +64,7 @@ Have fun and 73 :)
 
 ## Credits
 
-©️ 2022 WodoWiesel (https://github.com/wodowiesel/ & https://www.twitch.com/wodowiesel/)
+©️ 2022/23 WodoWiesel (https://github.com/wodowiesel/ & https://www.twitch.com/wodowiesel/)
 
 The new design was checked by the electrical engineer theBrutzler
 
@@ -70,7 +72,7 @@ The new design was checked by the electrical engineer theBrutzler
 
 The new optimized PCB was designed with free KiCAD software (https://www.kicad.org/)
 
-❗ The PCB should be produced at a manufacturer (like PCBWay) with the RoHS lead-free option for environmental protection
+The PCB should be produced at a manufacturer (like PCBWay) with the RoHS lead-free option for environmental protection
 
 ## LICENSE
 
